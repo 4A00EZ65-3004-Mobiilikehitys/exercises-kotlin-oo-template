@@ -3,7 +3,7 @@ package exercise
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
 
-class MockDrawableTest {
+class DrawableTest {
 
     @Test
     fun `draw returns correct string`() {
