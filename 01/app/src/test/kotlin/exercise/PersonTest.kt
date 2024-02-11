@@ -3,7 +3,7 @@ package exercise
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
 
-class PersonTests {
+class PersonTest {
 
     @Test
     fun `test person name initialization`() {
